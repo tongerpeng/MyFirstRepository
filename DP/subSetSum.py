@@ -19,7 +19,7 @@ def hasSubSetSumRecursion(num, n, target):
 
 
 def hasSubSetSumDP(num, n, target):
-    '''DP方法'''
+    '''DP方法.'''
     
 
 if __name__ == "__main__":
