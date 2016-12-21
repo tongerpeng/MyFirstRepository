@@ -18,6 +18,10 @@ def hasSubSetSumRecursion(num, n, target):
                hasSubSetSumRecursion(num, n-1, target - num[n-1])
 
 
+def hasSubSetSumDP(num, n, target):
+    '''DP方法'''
+    
+
 if __name__ == "__main__":
     num = [3, 24, 4, 12, 5, 2]
     target = 9
